@@ -62,6 +62,20 @@ import seaborn as sns
 
 
 ```
+
+## Features 
+
+-age
+-workclass
+-fnlwgt
+-education
+-education.num
+-marital.status
+-occupation
+-relationship
+-race
+-sex
+And more..
 ## Visualizations
 
 #### Distribution of working hours per week
