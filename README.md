@@ -65,6 +65,6 @@ import seaborn as sns
 ## Visualizations
 
 
-![Distribution of working hours per week](hours.png)
-![Income range counts per relationship](Relationship.png)
+!['Distribution of working hours per week'](hours.png)
+!['Income range counts per relationship'](Relationship.png)
 
