@@ -62,4 +62,4 @@ import seaborn as sns
 
 
 ```
-![Realtionship Counts](main/Images/Relationship.jpg)
+<img alt="WP Reliable Cookie Bar logo" src="https://github.com/Mokashaa2000/Calssification-ML-model-to-predict-income-above-or-below-50k/blob/main/Relationship.jpg" height="100" width="100" align="right">
