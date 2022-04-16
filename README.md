@@ -62,4 +62,4 @@ import seaborn as sns
 
 
 ```
-![Realtionship Counts]('Images/Relationship.jpg')
+![Realtionship Counts](main/Images/Relationship.jpg)
